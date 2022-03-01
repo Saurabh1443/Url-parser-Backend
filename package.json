@@ -1,0 +1,24 @@
+{
+  "name": "url_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "metascraper": "^5.25.8",
+    "metascraper-author": "^5.25.8",
+    "metascraper-description": "^5.25.8",
+    "metascraper-image": "^5.25.8",
+    "metascraper-title": "^5.25.8",
+    "metascraper-url": "^5.25.8",
+    "nodemon": "^2.0.15",
+    "url": "^0.11.0"
+  }
+}
